@@ -28,3 +28,34 @@ C:\Users\azureuser\MyMvcApp\obj\Debug\net8.0\refint\MyMvcApp.dll
 C:\Users\azureuser\MyMvcApp\obj\Debug\net8.0\MyMvcApp.pdb
 C:\Users\azureuser\MyMvcApp\obj\Debug\net8.0\MyMvcApp.genruntimeconfig.cache
 C:\Users\azureuser\MyMvcApp\obj\Debug\net8.0\ref\MyMvcApp.dll
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\bin\Debug\net8.0\MyMvcApp.exe
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\bin\Debug\net8.0\MyMvcApp.dll
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\bin\Debug\net8.0\appsettings.Development.json
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\bin\Debug\net8.0\appsettings.json
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\bin\Debug\net8.0\MyMvcApp.staticwebassets.runtime.json
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\obj\Debug\net8.0\MyMvcApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\obj\Debug\net8.0\MyMvcApp.AssemblyInfoInputs.cache
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\obj\Debug\net8.0\MyMvcApp.AssemblyInfo.cs
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\obj\Debug\net8.0\MyMvcApp.csproj.CoreCompileInputs.cache
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\obj\Debug\net8.0\MyMvcApp.MvcApplicationPartsAssemblyInfo.cache
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\obj\Debug\net8.0\MyMvcApp.RazorAssemblyInfo.cache
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\obj\Debug\net8.0\MyMvcApp.RazorAssemblyInfo.cs
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\obj\Debug\net8.0\MyMvcApp.sourcelink.json
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\obj\Debug\net8.0\staticwebassets.build.json
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\obj\Debug\net8.0\staticwebassets.development.json
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\obj\Debug\net8.0\staticwebassets\msbuild.MyMvcApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\obj\Debug\net8.0\staticwebassets\msbuild.build.MyMvcApp.props
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyMvcApp.props
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyMvcApp.props
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\obj\Debug\net8.0\staticwebassets.pack.json
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\obj\Debug\net8.0\scopedcss\bundle\MyMvcApp.styles.css
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\obj\Debug\net8.0\scopedcss\projectbundle\MyMvcApp.bundle.scp.css
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\obj\Debug\net8.0\MyMvcApp.dll
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\obj\Debug\net8.0\refint\MyMvcApp.dll
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\obj\Debug\net8.0\MyMvcApp.pdb
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\bin\Debug\net8.0\MyMvcApp.deps.json
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\bin\Debug\net8.0\MyMvcApp.runtimeconfig.json
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\bin\Debug\net8.0\MyMvcApp.pdb
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\obj\Debug\net8.0\MyMvcApp.genruntimeconfig.cache
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\obj\Debug\net8.0\ref\MyMvcApp.dll
