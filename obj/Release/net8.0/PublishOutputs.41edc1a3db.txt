@@ -1,0 +1,12 @@
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\publish\MyMvcApp.exe
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\publish\publish\web.config
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\publish\appsettings.Development.json
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\publish\appsettings.json
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\publish\publish\appsettings.Development.json
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\publish\publish\appsettings.json
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\publish\publish\MyMvcApp.deps.json
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\publish\publish\MyMvcApp.runtimeconfig.json
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\publish\MyMvcApp.dll
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\publish\MyMvcApp.deps.json
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\publish\MyMvcApp.runtimeconfig.json
+C:\LabFiles\azureuser\GitHub Copilot\MyMvcApp-Contact-Database-Application\publish\MyMvcApp.pdb
